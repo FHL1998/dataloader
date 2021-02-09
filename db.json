@@ -8,10 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
-  "users": [
-    {"id": 1,"name": "OliverFan","username": "Bret","email": "ielts8@gmail.com","phone": "86-18810328618","website": "hildegard.org"}
-  ]
+  "profile": {"name": "typicode"},
+  "users": {"id": 1,"name": "OliverFan","username": "Bret","email": "ielts8@gmail.com","phone": "86-18810328618","website": "hildegard.org"}
 }
